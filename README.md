@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwok Zheng Feng</h1>
-<h3 align="center">A passionate full-stack developer & AI Engineer from Singapore</h3>
+<h3 align="center">Founder, AI & Full Stack Eng. Currently in the Bay Area.</h3>
 
 - 👯 I’m looking to collaborate on **AI & ML Projects**
 
